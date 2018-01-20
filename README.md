@@ -4,11 +4,10 @@
 - hhhhhhhh
 - fghjklkjhghj
 
-<<<<<<< HEAD
+
 ## [azmalzemelimutfak.com](http://www.azmalzemelimutfak.com)
 
-=======
->>>>>>> a36d4eca0195aa99c86ab77171a2a5252029e5b2
+
 ```bash
 git init
 git add .
